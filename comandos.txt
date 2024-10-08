@@ -1,0 +1,2 @@
+ativar o venv pelo cmd      :-->    .venv\Scripts\activate
+desativar o venv            :-->     deactivate
